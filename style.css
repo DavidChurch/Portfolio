@@ -47,8 +47,16 @@
     font-size: 1rem;
   }
 
+  .copyrightText{
+    color: #fff;
+  }
+
   strong {
     color: #191E29;
+  }
+
+  .github {
+    color: #fff;
   }
   
   p.lead {
@@ -62,19 +70,6 @@
     font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-size: 1.5rem;
     color: #191E29;
-  }
-  
-  .social-icons a {
-    display: inline-block;
-    height: 3.5rem;
-    width: 3.5rem;
-    background-color: #495057;
-    color: #fff !important;
-    border-radius: 100%;
-    text-align: center;
-    font-size: 1.5rem;
-    line-height: 3.5rem;
-    margin-right: 1rem;
   }
   
   .dev-icons {
@@ -348,6 +343,7 @@
 
   .portfolio-modal {
     padding-left: 17em !important;
+    padding-right: 0em !important;
   }
 
   @media (max-width: 992px) {
