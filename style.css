@@ -31,7 +31,7 @@
   }
   
   h1 {
-    font-size: 6rem;
+    font-size: 5rem;
     line-height: 5.5rem;
   }
   
@@ -53,10 +53,6 @@
 
   strong {
     color: #191E29;
-  }
-
-  .github {
-    color: #fff;
   }
   
   p.lead {
@@ -350,4 +346,9 @@
     .portfolio-modal {
       padding-left: 0em !important;
     }
+  }
+
+  .page-footer .footer-copyright{
+    background: #132D46;
+    color: #fff;
   }
